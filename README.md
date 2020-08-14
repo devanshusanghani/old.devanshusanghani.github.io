@@ -1,7 +1,7 @@
 # Portfolio
 ## Built using React.
 
-The hosted version of this repository is live at [http://devanshusanghani.herokuapp.com](http://devanshusanghani.herokuapp.com)
+The hosted version of this repository is live at [http://devanshusanghani.me](http://devanshusanghani.me)
 
 ![landing page image](./landing.png)
 
