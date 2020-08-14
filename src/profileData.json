@@ -1,0 +1,132 @@
+{
+	"landing": {
+		"firstName": "Devanshu",
+		"lastName": "Sanghani",
+		"bio": "Software Engineering Graduate from SRM Institute of Science and Technology, Chennai. Interested in Web Development, Software Development and Cyber Security. ",
+    "email": "devanshusanghani@gmail.com",
+    "linkedin": "https://linkedin.com/in/devanshusanghani",
+		"github": "https://github.com/devanshusanghani",
+		"facebook": "https://www.facebook.com/devanshusanghani",
+		"instagram": "https://www.instagram.com/devanshusanghani/",
+		"twitter": "https://twitter.com/Dev_Sanghani"
+	},
+	"experience": [
+		{
+			"position": "Systems Engineer Trainee",
+			"organization": "Infosys Limited",
+			"aboutWork": "I have undergone a 2-month internship in which I worked on Microsoft Stream for full-stack web development.I was responsible for the creation of business logic backend APIs using the .NET Core framework.I also worked on the Angular6 framework using TypeScript for the creation of front-end for websites and utilizing its capability for performing client-side validation.",
+			"fromDate":"January 2020",
+			"toDate": "March 2020"
+		},
+		{
+			"position": "Intern",
+			"organization": "Cloud Web Technology Limited",
+			"aboutWork": "In this one-month internship worked with a professional team that was developing client website. I learned and worked on HTML5+CSS and little bit of JavaScript.",
+			"fromDate": "December 2018",
+			"toDate": "January 2019"
+		},
+		{
+				"position": "Intern",
+				"organization": "Elecon Information Technology Limited",
+				"aboutWork": "This one-month internship was a great learning experience for me. I gained basic knowledge about computer networks and as my company was a Class B internet service provider (as per Indian Standards), I got basic idea about working of Class B ISP and network architecture. There we simulated network using Cisco Packet Tracer.",
+				"fromDate": "June 2018",
+				"toDate": "July 2018"
+		}
+	],
+	"education": [{
+			"university": "SRM Institute of Science and Technology",
+			"degree": "Bachelor of Technology",
+			"gpa": "78.11",
+			"fromDate": "August 2016",
+			"toDate": "May 2020"
+		},
+		{
+			"university": "Shiv Jyoti Sr. Sec. High School",
+			"degree": "12th",
+			"gpa": "66.80",
+			"toDate": "2016"
+		},
+		{
+			"university": "I. B. Patel English School",
+			"degree": "10th",
+			"gpa": "81.33",
+			"toDate": "2014"
+		}
+	],
+	"skills": [{
+			"name": "Python"
+		},
+		{
+			"name": "C"
+		},
+		{
+			"name": "C++"
+		},
+		{
+			"name": "C#"
+		},
+		{
+			"name": "SQL"
+		},
+		{
+			"name": "T-SQL"
+		},
+		{
+			"name": "EF Core"
+		},
+		{
+			"name": "asp.net"
+		},
+		{
+			"name": "typerscript"
+		},
+		{
+			"name": "Angular"
+		},
+		{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Bootstrap"
+		}
+	],
+	"certifications": [
+		{
+				"name": "HackTrack",
+				"about": "This was 2 days workshop on Ethical Hacking Workshop organized by TechDefence Lab."
+		},
+		{
+			"name": "Short Term Training Program on Deep Learning and its Application in NLP, Image and Video Analysis with Hands on Session",
+			"about": "This was 5 days workshop on Deep Learning and Its Application. There we learned basic of ML & DL and had hands on session of Image and video analysis which was organized by Department of Software Engineering, SRM Institute of Science and Technology KTR Campus."
+		},
+		{
+			"name": "Programming, Data Structures and Algorithms Using Python (NPTEL Course)",
+			"about": "This was 8 weeks python course for basic python, Data Structures and Algorithms"
+		}
+	],
+	"projects": [
+		{
+			"name": "Automatic HTML code generation from mock-up images using Neural Networks",
+			"about": "For my final year project, I have developed a tool that could be used for generating HTML code and hence basic web pages by taking a hand-drawn image of the webpage design as an input. I have trained a FasterRCNN model for detecting the position of different elements of a website in the input image and have written a python script for generating the desired HTML code. This project could help people who want to develop a simple website but do not have the required skill or resources for doing the same. It could also prove useful in bridging the gap between clients and developers."
+		},
+		{
+			"name": "Complimentr Application Using Flask",
+			"about": "Complimentr is an flask App which uses Twilio's SMS API to send Compliment in the form of SMS to a desired phone number"
+		},
+		{
+				"name": "Network-Scanner",
+				"about": "This project is an application which gives the user their IP and MAC address and for all the devices connected within the same network. I developed this using Python Tkinter, System and OS commands."
+		},
+		{
+			"name": "Payment Portal GUI Using Python and SQL",
+			"about": "This project simulates payment process involved in any UPI transaction. In this project UPI database was made using MySQL and GUI using python Tkinter."
+		},
+		{
+			"name": "Blog Application Using Django",
+			"about": "This project is a blog application which lets user create, like and comment on posts. Profile creation and admin UI are some of the features. I developed this using Django."
+		}
+	]
+}
