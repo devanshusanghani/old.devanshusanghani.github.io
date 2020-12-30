@@ -2,7 +2,7 @@
 	"landing": {
 		"firstName": "Devanshu",
 		"lastName": "Sanghani",
-		"bio": "Software Engineering Graduate from SRM Institute of Science and Technology, Chennai. Interested in Web Development, Software Development and Cyber Security. ",
+		"bio": "Software Engineer from SRM Institute of Science and Technology, Chennai. Interested in Web Development, Software Development and Cyber Security. ",
     "email": "devanshusanghani@gmail.com",
     "linkedin": "https://linkedin.com/in/devanshusanghani",
 		"github": "https://github.com/devanshusanghani",
@@ -12,9 +12,23 @@
 	},
 	"experience": [
 		{
+			"position": "Systems Engineer",
+			"organization": "Infosys Limited",
+			"aboutWork": "Currently, working in a project that provides services to Molina Healthcare, USA.",
+			"fromDate":"November 2020",
+			"toDate": "Present"
+		},
+		{
 			"position": "Systems Engineer Trainee",
 			"organization": "Infosys Limited",
-			"aboutWork": "I have undergone a 2-month internship in which I worked on Microsoft Stream for full-stack web development.I was responsible for the creation of business logic backend APIs using the .NET Core framework.I also worked on the Angular6 framework using TypeScript for the creation of front-end for websites and utilizing its capability for performing client-side validation.",
+			"aboutWork": "After Compeletion of internship received offer letter. Worked in Full Stack Web Development. Worked in Capstone Project in that created a web application related to travel services. Used Angular for front-end and .Net Core for back-end. Also developed APIs .Net Core.",
+			"fromDate":"October 2020",
+			"toDate": "November 2020"
+		},
+		{
+			"position": "Systems Engineer Intern",
+			"organization": "Infosys Limited",
+			"aboutWork": "Worked on Microsoft Stream for full-stack web development.I was responsible for the creation of business logic backend APIs using the .NET Core framework.I also worked on the Angular6 framework using TypeScript for the creation of front-end for websites and utilizing its capability for performing client-side validation. Received Offer Letter.",
 			"fromDate":"January 2020",
 			"toDate": "March 2020"
 		},
