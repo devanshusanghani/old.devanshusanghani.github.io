@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8cab62a9f605d09a063abb53c6628ea8",
+    "revision": "c0defe9448e53a8bb26d5c379500de41",
     "url": "https://devanshusanghani.me/index.html"
   },
   {
-    "revision": "04b06d2d31bae7738b1f",
+    "revision": "c120eda0afc38d17a0ab",
     "url": "https://devanshusanghani.me/static/css/main.498d002a.chunk.css"
   },
   {
-    "revision": "3602b91065bc61b04ebb",
-    "url": "https://devanshusanghani.me/static/js/2.1e9d9dc5.chunk.js"
+    "revision": "8276f8c2e161d5bc0a17",
+    "url": "https://devanshusanghani.me/static/js/2.3db68278.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "https://devanshusanghani.me/static/js/2.1e9d9dc5.chunk.js.LICENSE.txt"
+    "revision": "b13e737c23346402089bf79c557ecf58",
+    "url": "https://devanshusanghani.me/static/js/2.3db68278.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04b06d2d31bae7738b1f",
-    "url": "https://devanshusanghani.me/static/js/main.06de2def.chunk.js"
+    "revision": "c120eda0afc38d17a0ab",
+    "url": "https://devanshusanghani.me/static/js/main.18dbd6ac.chunk.js"
   },
   {
     "revision": "4353f1844d11bda09eee",
