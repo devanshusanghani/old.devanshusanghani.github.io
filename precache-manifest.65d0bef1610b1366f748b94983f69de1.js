@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0defe9448e53a8bb26d5c379500de41",
+    "revision": "54971ee37b1a56c2e3639095e8edb0e3",
     "url": "https://devanshusanghani.me/index.html"
   },
   {
-    "revision": "c120eda0afc38d17a0ab",
+    "revision": "75afcfce5cdfcde5d1c4",
     "url": "https://devanshusanghani.me/static/css/main.498d002a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://devanshusanghani.me/static/js/2.3db68278.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c120eda0afc38d17a0ab",
-    "url": "https://devanshusanghani.me/static/js/main.18dbd6ac.chunk.js"
+    "revision": "75afcfce5cdfcde5d1c4",
+    "url": "https://devanshusanghani.me/static/js/main.242bda45.chunk.js"
   },
   {
     "revision": "4353f1844d11bda09eee",
