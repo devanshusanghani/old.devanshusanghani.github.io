@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "https://devanshusanghani.me/static/css/main.498d002a.chunk.css",
-    "main.js": "https://devanshusanghani.me/static/js/main.242bda45.chunk.js",
-    "main.js.map": "https://devanshusanghani.me/static/js/main.242bda45.chunk.js.map",
-    "runtime-main.js": "https://devanshusanghani.me/static/js/runtime-main.956cf56f.js",
-    "runtime-main.js.map": "https://devanshusanghani.me/static/js/runtime-main.956cf56f.js.map",
-    "static/js/2.3db68278.chunk.js": "https://devanshusanghani.me/static/js/2.3db68278.chunk.js",
-    "static/js/2.3db68278.chunk.js.map": "https://devanshusanghani.me/static/js/2.3db68278.chunk.js.map",
+    "main.css": "https://devanshusanghani.me/static/css/main.b8c321ea.chunk.css",
+    "main.js": "https://devanshusanghani.me/static/js/main.6fc018bf.chunk.js",
+    "main.js.map": "https://devanshusanghani.me/static/js/main.6fc018bf.chunk.js.map",
+    "runtime-main.js": "https://devanshusanghani.me/static/js/runtime-main.9653b690.js",
+    "runtime-main.js.map": "https://devanshusanghani.me/static/js/runtime-main.9653b690.js.map",
+    "static/js/2.f5ae250a.chunk.js": "https://devanshusanghani.me/static/js/2.f5ae250a.chunk.js",
+    "static/js/2.f5ae250a.chunk.js.map": "https://devanshusanghani.me/static/js/2.f5ae250a.chunk.js.map",
     "index.html": "https://devanshusanghani.me/index.html",
-    "precache-manifest.65d0bef1610b1366f748b94983f69de1.js": "https://devanshusanghani.me/precache-manifest.65d0bef1610b1366f748b94983f69de1.js",
-    "service-worker.js": "https://devanshusanghani.me/service-worker.js",
-    "static/css/main.498d002a.chunk.css.map": "https://devanshusanghani.me/static/css/main.498d002a.chunk.css.map",
-    "static/js/2.3db68278.chunk.js.LICENSE.txt": "https://devanshusanghani.me/static/js/2.3db68278.chunk.js.LICENSE.txt",
-    "static/media/profile.jpg": "https://devanshusanghani.me/static/media/profile.6ebe3af7.jpg"
+    "static/css/main.b8c321ea.chunk.css.map": "https://devanshusanghani.me/static/css/main.b8c321ea.chunk.css.map",
+    "static/js/2.f5ae250a.chunk.js.LICENSE.txt": "https://devanshusanghani.me/static/js/2.f5ae250a.chunk.js.LICENSE.txt",
+    "static/media/profile.686fbf18.jpg": "https://devanshusanghani.me/static/media/profile.686fbf18.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.956cf56f.js",
-    "static/js/2.3db68278.chunk.js",
-    "static/css/main.498d002a.chunk.css",
-    "static/js/main.242bda45.chunk.js"
+    "static/js/runtime-main.9653b690.js",
+    "static/js/2.f5ae250a.chunk.js",
+    "static/css/main.b8c321ea.chunk.css",
+    "static/js/main.6fc018bf.chunk.js"
   ]
 }
