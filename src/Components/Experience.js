@@ -19,6 +19,12 @@ class Experience extends Component {
                   <h3 className="mb-0">{exp.position}</h3>
                   <div className="subheading mb-3">{exp.organization}</div>
                   <p>{exp.aboutWork}</p>
+				  <p><a target="_blank" href={exp.aboutWorklink}>{exp.aboutWorklink}</a></p>
+				  <p>{exp.aboutWork1}</p>
+				  <p>{exp.aboutWork2}</p>
+				  <p>{exp.aboutWork3}</p>
+				  <p>{exp.aboutWork4}</p>
+				  <p>{exp.aboutWork5}</p>
                 </div>
                 <div className="resume-date text-md-right">
                   <span className="text-primary">{exp.fromDate} - {exp.toDate}</span>

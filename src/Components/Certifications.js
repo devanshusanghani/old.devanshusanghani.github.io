@@ -19,6 +19,7 @@ class Certifications extends Component {
                 <div className="resume-content">
                   <h3 className="mb-0">{data.name}</h3>
                   <p>{data.about}</p>
+				  <p><a target="_blank" href={data.verify}>{data.verify}</a></p>
                 </div>
               </div>
             ))

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithub, faLinkedin, faFacebook, faInstagram, faTwitter } from "@fortawesome/free-brands-svg-icons";
+import { faGithub, faLinkedin, faFacebook, faInstagram, faTwitter} from "@fortawesome/free-brands-svg-icons";
+import { faDownload} from "@fortawesome/free-solid-svg-icons";
 
 class Landing extends Component {
   constructor(props) {
@@ -16,23 +17,27 @@ class Landing extends Component {
             <span className="text-primary">{this.landingData.lastName}</span>
           </h1>
           <div className="subheading mb-5">{this.landingData.phoneNumber} ·
-            <a href="mailto:name@email.com">{this.landingData.email}</a>
+            <a target="_blank" href="mailto:name@email.com">{this.landingData.email}</a> ·
+			<a target="_blank" href="mailto:name@email.com">{this.landingData.email2}</a>
           </div>
           <p className="lead mb-5">{this.landingData.bio}</p>
           <div className="social-icons">
-            <a href={this.landingData.linkedin}>
+		  <a target="_blank" href={this.landingData.Resume}>
+              <FontAwesomeIcon icon={faDownload} />
+            </a>
+            <a target="_blank" href={this.landingData.linkedin}>
               <FontAwesomeIcon icon={faLinkedin} />
             </a>
-            <a href={this.landingData.github}>
+            <a target="_blank" href={this.landingData.github}>
               <FontAwesomeIcon icon={faGithub} />
             </a>
-			<a href={this.landingData.facebook}>
+			<a target="_blank" href={this.landingData.facebook}>
               <FontAwesomeIcon icon={faFacebook} />
             </a>
-			<a href={this.landingData.instagram}>
+			<a target="_blank" href={this.landingData.instagram}>
               <FontAwesomeIcon icon={faInstagram} />
             </a>
-			<a href={this.landingData.twitter}>
+			<a target="_blank" href={this.landingData.twitter}>
               <FontAwesomeIcon icon={faTwitter} />
             </a>
           </div>

@@ -1,9 +1,12 @@
 {
 	"landing": {
-		"firstName": "Devanshu",
+		"firstName": "Dev",
 		"lastName": "Sanghani",
-		"bio": "Software Engineer from SRM Institute of Science and Technology, Chennai. Interested in Web Development, Software Development and Cyber Security. ",
-    "email": "devanshusanghani@gmail.com",
+		"bio": "Currently pursuing a Masters in Cybersecurity from Michigan Technological University. I am an experienced full stack developer with expertise in Angular, .NET, and other technologies with 1.9 years of experience in the IT industry.",
+		"phoneNumber":"+1 (906)-299-2984",
+    "email": "dvsangha@mtu.edu",
+	"email2": "sanghanidevanshu@gmail.com",
+	"Resume": "https://my.indeed.com/p/devs-1m50vlj",
     "linkedin": "https://linkedin.com/in/devanshusanghani",
 		"github": "https://github.com/devanshusanghani",
 		"facebook": "https://www.facebook.com/devanshusanghani",
@@ -11,46 +14,86 @@
 		"twitter": "https://twitter.com/Dev_Sanghani"
 	},
 	"experience": [
-		{
-			"position": "Systems Engineer",
-			"organization": "Infosys Limited",
-			"aboutWork": "Currently, working on a project that provides support to an Australia-based Insurance company, I also worked on a project that was responsible for managing the DBs, support for payment-related services of a US-based Healthcare company.",
-			"fromDate":"November 2020",
+	{
+			"position": "Graduate Teaching Assistant",
+			"organization": "Michigan Technological University",
+			"aboutWork": "● Currently a Graduate Teaching Assistant for Michigan Tech's GenCyber Camp for professor Dr. Yu Cai",
+			"aboutWorklink": "https://www.mtu.edu/gencyber/ ",
+			"fromDate":"January 2023",
 			"toDate": "Present"
 		},
 		{
-			"position": "Systems Engineer Trainee",
+			"position": "Graduate Teaching Assistant",
+			"organization": "Michigan Technological University",
+			"aboutWork": "● Worked as a Graduate Teaching Assistant for CS 4710 - Model-Driven Software Development for professor Dr. Ali Ebnenasir",
+			"aboutWork1": "● Graded students' assignments, and solved students' doubts during my office hours",
+			"fromDate":"September 2022",
+			"toDate": "December 2022"
+		},
+		{
+			"position": "Laboratory Teaching Assistant",
+			"organization": "Michigan Technological University",
+			"aboutWork": "● Worked as a Lab Teaching Assistant for CS 1111 - Introduction to C/C++ for researcher Cheng Fan",
+			"aboutWork1": "● Instructed labs with a number of students over 40",
+			"aboutWork2": "● Managed the lab, graded students' assignments, and solved students' doubts during my office hours",
+			"fromDate":"September 2022",
+			"toDate": "December 2022"
+		},
+		{
+			"position": "Senior Systems Engineer",
 			"organization": "Infosys Limited",
-			"aboutWork": "After Compeletion of internship received offer letter. Worked in Full Stack Web Development. Worked in Capstone Project in that created a web application related to travel services. Used Angular for front-end and .Net Core for back-end. Also developed APIs .Net Core.",
+			"aboutWork": "● Worked as a contractor for AXA XL USA for the profile of Full-stack developer",
+			"aboutWork1": "● Remodeled the old legacy windows applications to Angular-based web applications and created REST-API in .NET",
+			"aboutWork2": "● Optimized and fixed bugs in the company’s applications in the production environment",
+			"aboutWork3": "● Mentored five new team members and helped them understand the project architecture and documentation",
+			"aboutWork4": "● Simplified the process of onboarding new members by creating documentation that includes all the access rights required by a new member, along with the point of contact and email templates",
+			"aboutWork5": "● Created documentation of the recurring bugs along with their fixes",
+			"fromDate":"April 2022",
+			"toDate": "July 2022"
+		},
+		{
+			"position": "Systems Engineer",
+			"organization": "Infosys Limited",
+			"aboutWork": "● Coordinated with the client team to efficiently manage and resolve various tickets within the SLA time frame",
+			"aboutWork1": "● Responsible for database data fixes and supporting payment-related services for Molina Healthcare USA",
+			"aboutWork2": "● Achievements: Received a certificate of appreciation from the manager for my effectiveness in improving the quality of deliverables and for extending the alignment of the team’s needs and also received an appreciation badge from the onsite manager for my team working skills and for the timely delivery of the deliverables",
 			"fromDate":"October 2020",
-			"toDate": "November 2020"
+			"toDate": "March 2022"
 		},
 		{
 			"position": "Systems Engineer Intern",
 			"organization": "Infosys Limited",
-			"aboutWork": "Worked on Microsoft Stream for full-stack web development.I was responsible for the creation of business logic backend APIs using the .NET Core framework.I also worked on the Angular6 framework using TypeScript for the creation of front-end for websites and utilizing its capability for performing client-side validation. Received Offer Letter.",
+			"aboutWork": "● Created a Travel Services web application using Angular (for front-end) and .Net Core (for back-end) for my capstone project",
+			"aboutWork1": "● Achievement: Received an offer to join the company as a full-time systems engineer",
 			"fromDate":"January 2020",
 			"toDate": "March 2020"
 		},
 		{
 			"position": "Intern",
 			"organization": "Cloud Web Technology Limited",
-			"aboutWork": "In this one-month internship worked with a professional team that was developing client website. I learned and worked on HTML5+CSS and little bit of JavaScript.",
+			"aboutWork": "● Collaborated alongside a team of web developers for creating an e-commerce website.",
 			"fromDate": "December 2018",
 			"toDate": "January 2019"
 		},
 		{
 				"position": "Intern",
 				"organization": "Elecon Information Technology Limited",
-				"aboutWork": "This one-month internship was a great learning experience for me. I gained basic knowledge about computer networks and as my company was a Class B internet service provider (as per Indian Standards), I got basic idea about working of Class B ISP and network architecture. There we simulated network using Cisco Packet Tracer.",
+				"aboutWork": "● Learned and worked on Cisco Packet Tracer to simulate packet transfers to different networks",
 				"fromDate": "June 2018",
 				"toDate": "July 2018"
 		}
 	],
 	"education": [{
+			"university": "Michigan Technological University",
+			"degree": "MS - Cybersecurity",
+			"gpa": "3.83/4.0",
+			"fromDate": "August 2022",
+			"toDate": "Expected May 2024"
+		},
+		{
 			"university": "SRM Institute of Science and Technology",
-			"degree": "Bachelor of Technology",
-			"gpa": "78.11",
+			"degree": "Bachelor of Technology - Software Engineering",
+			"gpa": "US equivalent of 3.0/4.0",
 			"fromDate": "August 2016",
 			"toDate": "May 2020"
 		},
@@ -109,8 +152,24 @@
 	],
 	"certifications": [
 		{
-				"name": "HackTrack",
-				"about": "This was 2 days workshop on Ethical Hacking Workshop organized by TechDefence Lab."
+			"name": "National Cyber League (NCL) Fall 2022 Team Game - Certificate of Participation",
+			"about": "This was a team CTF event organized by Cyber Skyline in Fall 2022",
+			"verify":"https://cyberskyline.com/verify/NN539RQDR8E8"
+		}
+		,
+		{
+			"name": "National Cyber League (NCL) Fall 2022 Individual Game - Certificate of Participation",
+			"about": "This was an individual CTF event organized by Cyber Skyline",
+			"verify":"https://cyberskyline.com/verify/A46BBMBT44UM"
+		},
+		{
+			"name": "Python for Data Science, AI & Development",
+			"about": "This was 5 weeks python course for basic python, Data Structures and Algorithms",
+			"verify":"http://coursera.org/verify/3QAGFSPMQ44A"
+		},
+		{
+			"name": "HackTrack",
+			"about": "This was 2 days workshop on Ethical Hacking Workshop organized by TechDefence Lab."
 		},
 		{
 			"name": "Short Term Training Program on Deep Learning and its Application in NLP, Image and Video Analysis with Hands on Session",
@@ -120,8 +179,17 @@
 			"name": "Programming, Data Structures and Algorithms Using Python (NPTEL Course)",
 			"about": "This was 8 weeks python course for basic python, Data Structures and Algorithms"
 		}
+		
 	],
 	"projects": [
+		{	
+			"name": "Malicious Packact Filter",
+			"about": "I developed this project for CS4471. It is a packet filtering system that I developed in C++ that filters malicious IP addresses. It uses a random bloom filter to store a range of IP addresses generated by the user and check for malicious IP addresses specified by the user."
+		},
+		{
+			"name": "Merkle Tree for Simple Payment Verification",
+			"about": "I developed this project for CS4471. It is a program that generates a Merkle tree with some transactions, stores its root value in one file and its branch values in another file, and checks if a particular transaction is present in the Merkle tree."
+		},
 		{
 			"name": "Automatic HTML code generation from mock-up images using Neural Networks",
 			"about": "For my final year project, I have developed a tool that could be used for generating HTML code and hence basic web pages by taking a hand-drawn image of the webpage design as an input. I have trained a FasterRCNN model for detecting the position of different elements of a website in the input image and have written a python script for generating the desired HTML code. This project could help people who want to develop a simple website but do not have the required skill or resources for doing the same. It could also prove useful in bridging the gap between clients and developers."
@@ -129,18 +197,6 @@
 		{
 			"name": "Complimentr Application Using Flask",
 			"about": "Complimentr is an flask App which uses Twilio's SMS API to send Compliment in the form of SMS to a desired phone number"
-		},
-		{
-				"name": "Network-Scanner",
-				"about": "This project is an application which gives the user their IP and MAC address and for all the devices connected within the same network. I developed this using Python Tkinter, System and OS commands."
-		},
-		{
-			"name": "Payment Portal GUI Using Python and SQL",
-			"about": "This project simulates payment process involved in any UPI transaction. In this project UPI database was made using MySQL and GUI using python Tkinter."
-		},
-		{
-			"name": "Blog Application Using Django",
-			"about": "This project is a blog application which lets user create, like and comment on posts. Profile creation and admin UI are some of the features. I developed this using Django."
 		}
 	]
 }
